@@ -11,4 +11,4 @@ commands:
     
 permissions:
   player.use:
-    default: true
+    default: op
